@@ -18,7 +18,8 @@ Enter a debate topic in the format *Topic1 vs. Topic2* (e.g., Kuskus vs. Brik). 
 ### 💡 Free Conversation
 Enter any topic for a casual discussion (e.g., Tunisian Food Culture).
 
-![FreeConversation GIF](free conv.gif)
+![FreeConversation GIF](free%20conv.gif)
+
 
 ## Installation
 
